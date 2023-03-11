@@ -6,7 +6,7 @@
         "MusicBot"
     ],
     "logo": "https://imgur.com/HYdV6PJ.png",
-    "repository": "https://github.com/MadBoy-X/MusicBot/",
+    "repository": "https://github.com/Recordu/MusicBot/",
     "success_url": "https://github.com/MadBoy-X/MusicBot/",
     "stack": "container",
     "env": {
